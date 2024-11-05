@@ -5,6 +5,9 @@ print("Hello,🌏")
 # ctrl + /comment
 # ctrl + ~ terminal
 
+#hhhh
+
+
 
 
 name = " kenta " #class str #DEcalaration ->creating a variable
