@@ -47,7 +47,9 @@ elif height1 == height2:
 else:
     print(f"yoshi is taller than yuma by {height_difference2} cm")
 
-#elif is many
+#elif can be many
+
+
 
 
 
